@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CutCounter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CutCounter_jar</output-path>
+    <root id="archive" name="CutCounter.jar">
+      <element id="module-output" name="CutCounter" />
+    </root>
+  </artifact>
+</component>
